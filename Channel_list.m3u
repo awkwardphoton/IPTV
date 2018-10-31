@@ -107,3 +107,41 @@ http://tiks.ws:83/live/7146502397/s69CqtVy56/90890.ts
 http://tiks.ws:83/live/7146502397/s69CqtVy56/90891.ts
 #EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Diema BG
 http://tiks.ws:83/live/7146502397/s69CqtVy56/90897.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.tr" tvg-name="Nat Geo People TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",Nat Geo People TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93164.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",KANAL D ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93205.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",KANAL 7 ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93206.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TRT 1 ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93195.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVNET HD ( 1080P ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TVNET HD ( 1080P ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/168150.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV8 HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TV8 HD TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/168235.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV2 HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TV2 HD TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/168234.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TRT BELGESEL ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93194.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TEVE 2 ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93196.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",STAR ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93197.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",FOX ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93207.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",BEYAZ ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93208.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",ATV ( FHDP ) TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93213.ts
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="a2 TV TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",a2 TV TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93217.ts
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",CNN Turk TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93230.ts
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",KRAL POP TV TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93253.ts
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-name="National Geographic TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",National Geographic TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/93277.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",BBC Earth HD TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/168180.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD ( 1080P )TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",NTV HD ( 1080P )TR
+http://tiks.ws:83/live/7146502397/s69CqtVy56/168165.ts
