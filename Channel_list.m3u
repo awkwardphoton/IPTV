@@ -93,3 +93,17 @@ http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143539.ts
 http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143541.ts
 #EXTINF:-1 tvg-id="movies24.uk" tvg-name="UK Movies24" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-movies-24.png" group-title="UK MOVIE NETWORKS",UK Movies24
 http://tiks.ws:83/live/0964330773/CkGSz0SNKN/307881.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Nova TV BG
+http://tiks.ws:83/live/7146502397/s69CqtVy56/90877.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Nat Geo Wild BG
+http://tiks.ws:83/live/7146502397/s69CqtVy56/90881.ts
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",bTV BG
+http://tiks.ws:83/live/7146502397/s69CqtVy56/90888.ts
+#EXTINF:-1 tvg-id="" tvg-name="bTV Action FHD BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",bTV Action FHD BG
+http://tiks.ws:83/live/7146502397/s69CqtVy56/90889.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Tv FHD BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Fox Tv FHD BG
+http://tiks.ws:83/live/7146502397/s69CqtVy56/90890.ts
+#EXTINF:-1 tvg-id="" tvg-name="BNT BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",BNT BG
+http://tiks.ws:83/live/7146502397/s69CqtVy56/90891.ts
+#EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Diema BG
+http://tiks.ws:83/live/7146502397/s69CqtVy56/90897.ts
