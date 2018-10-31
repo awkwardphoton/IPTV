@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK BBC One HD" tvg-logo="http://picon.helixhosting.ninja/70.png" group-title="UK ENTERTAINMENT",UK BBC One HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/67140.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK BBC Two FHD" tvg-logo="http://picon.helixhosting.ninja/41.png" group-title="UK ENTERTAINMENT",UK BBC Two FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21112.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK ITV HD" tvg-logo="http://picon.helixhosting.ninja/1714.png" group-title="UK ENTERTAINMENT",UK ITV HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142764.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK CHANNEL 4" tvg-logo="http://picon.helixhosting.ninja/26572.png" group-title="UK ENTERTAINMENT",UK CHANNEL 4
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/257065.ts
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK S4C" tvg-logo="http://picon.helixhosting.ninja/26369.png" group-title="UK ENTERTAINMENT",UK S4C
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/256035.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK Channel 5 FHD" tvg-logo="http://picon.helixhosting.ninja/36.png" group-title="UK ENTERTAINMENT",UK Channel 5 FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21097.ts
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2 HD" tvg-logo="http://picon.helixhosting.ninja/74.png" group-title="UK ENTERTAINMENT",UK ITV 2 HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/67155.ts
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK BBC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/300px-BBC_Four.svg.png" group-title="UK ENTERTAINMENT",UK BBC 4
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/302111.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK ITV 3 SD" tvg-logo="http://picon.helixhosting.ninja/1719.png" group-title="UK ENTERTAINMENT",UK ITV 3 SD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142782.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK Pick" tvg-logo="http://picon.helixhosting.ninja/14.png" group-title="UK ENTERTAINMENT",UK Pick
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21049.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK Dave HD" tvg-logo="http://picon.helixhosting.ninja/1710.png" group-title="UK ENTERTAINMENT",UK Dave HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142758.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 4  +1" tvg-logo="" group-title="UK +1",UK: Channel 4  +1
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/321346.ts
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK Film 4 HD" tvg-logo="http://picon.helixhosting.ninja/2163.png" group-title="UK MOVIE NETWORKS",UK Film 4 HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/221840.ts
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK Really" tvg-logo="http://picon.helixhosting.ninja/13.png" group-title="UK ENTERTAINMENT",UK Really
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21045.ts
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK Yesterday" tvg-logo="http://picon.helixhosting.ninja/16.png" group-title="UK ENTERTAINMENT",UK Yesterday
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21054.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK ITV 4 FHD" tvg-logo="http://picon.helixhosting.ninja/1720.png" group-title="UK ENTERTAINMENT",UK ITV 4 FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142783.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK ITV Be FHD" tvg-logo="http://picon.helixhosting.ninja/1723.png" group-title="UK ENTERTAINMENT",UK ITV Be FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142787.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="UK Animal Planet" tvg-logo="http://picon.helixhosting.ninja/49.png" group-title="UK DOCUMENTARIES",UK Animal Planet
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21126.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK E4 HD" tvg-logo="http://picon.helixhosting.ninja/31.png" group-title="UK ENTERTAINMENT",UK E4 HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21088.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: E4  +1" tvg-logo="" group-title="UK +1",UK: E4  +1
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/321341.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK 5 Star HD" tvg-logo="http://picon.helixhosting.ninja/1707.png" group-title="UK ENTERTAINMENT",UK 5 Star HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142755.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1  +1" tvg-logo="" group-title="UK +1",UK: ITV 1  +1
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/321349.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3  +1" tvg-logo="" group-title="UK +1",UK: ITV 3  +1
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/321348.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK SKY 1 HD" tvg-logo="http://picon.helixhosting.ninja/1716.png" group-title="UK ENTERTAINMENT",UK SKY 1 HD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142768.ts
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK Quest TV" tvg-logo="http://picon.helixhosting.ninja/26985.png" group-title="UK ENTERTAINMENT",UK Quest TV
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/263183.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 5  +1" tvg-logo="" group-title="UK +1",UK: Channel 5  +1
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/321345.ts
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/330px-Discovery_2016.svg.png" group-title="UK DOCUMENTARIES",UK Discovery Channel
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21122.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Film 4  +1" tvg-logo="" group-title="UK +1",UK: Film 4  +1
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/321353.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK CHALLENGE" tvg-logo="http://picon.helixhosting.ninja/1704.png" group-title="UK ENTERTAINMENT",UK CHALLENGE
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142751.ts
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="UK SKY 2" tvg-logo="http://picon.helixhosting.ninja/40.png" group-title="UK ENTERTAINMENT",UK SKY 2
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21107.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK Cartoon Network" tvg-logo="http://picon.helixhosting.ninja/11.png" group-title="UK KIDS NETWORKS",UK Cartoon Network
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21039.ts
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK Discovery Science" tvg-logo="http://picon.helixhosting.ninja/26233.png" group-title="UK DOCUMENTARIES",UK Discovery Science
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/254861.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK 4 Seven SD" tvg-logo="http://picon.helixhosting.ninja/1705.png" group-title="UK ENTERTAINMENT",UK 4 Seven SD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/142752.ts
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="UK Syfy" tvg-logo="http://picon.helixhosting.ninja/20.png" group-title="UK ENTERTAINMENT",UK Syfy
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21064.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK Nat Geo Wild" tvg-logo="http://picon.helixhosting.ninja/48.png" group-title="UK DOCUMENTARIES",UK Nat Geo Wild
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/21123.ts
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK History" tvg-logo="http://picon.helixhosting.ninja/26232.png" group-title="UK DOCUMENTARIES",UK History
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/254860.ts
+#EXTINF:-1 tvg-id="rt.uk" tvg-name="UK RT" tvg-logo="http://picon.helixhosting.ninja/26241.png" group-title="UK NEWS NETWORKS",UK RT
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/255316.ts
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="UK Sky Cinema Thriller FHD" tvg-logo="http://picon.helixhosting.ninja/1771.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Thriller FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143522.ts
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="UK Sky Cinema Select FHD" tvg-logo="http://picon.helixhosting.ninja/1775.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Select FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143526.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK Sky Cinema Sci Fi FHD" tvg-logo="http://picon.helixhosting.ninja/1777.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Sci Fi FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143528.ts
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="UK Sky Cinema Premier FHD" tvg-logo="http://picon.helixhosting.ninja/1779.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Premier FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143530.ts
+#EXTINF:-1 tvg-id="SkyHits.uk" tvg-name="UK Sky Cinema Hits FHD" tvg-logo="http://picon.helixhosting.ninja/1781.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Hits FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143532.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK Sky Cinema Family FHD" tvg-logo="http://picon.helixhosting.ninja/1971.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Family FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/169090.ts
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="UK Sky Cinema Disney FHD" tvg-logo="http://picon.helixhosting.ninja/1785.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Disney FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143538.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK Sky Cinema Comedy FHD" tvg-logo="http://picon.helixhosting.ninja/1786.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Comedy FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143539.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK Sky Cinema Action FHD" tvg-logo="http://picon.helixhosting.ninja/1788.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Action FHD
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/143541.ts
+#EXTINF:-1 tvg-id="movies24.uk" tvg-name="UK Movies24" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-movies-24.png" group-title="UK MOVIE NETWORKS",UK Movies24
+http://tiks.ws:83/live/0964330773/CkGSz0SNKN/307881.ts
