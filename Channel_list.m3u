@@ -1,100 +1,489 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK BBC ONE" tvg-logo="http://picon.helixhosting.ninja/1957.png" group-title="UK ENTERTAINMENT",UK BBC ONE
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/168364.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP BBC Two England SD" tvg-logo="http://picon.helixhosting.ninja/31170.png" group-title="UK VIP SD",VIP BBC Two England SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/304110.ts
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK ITV SD" tvg-logo="http://picon.helixhosting.ninja/18.png" group-title="UK ENTERTAINMENT",UK ITV SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/21062.ts
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="VIP Channel 4   1 SD" tvg-logo="http://picon.helixhosting.ninja/31019.png" group-title="UK VIP SD",VIP Channel 4   1 SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/303959.ts
-#EXTINF:-1 tvg-id="channel5.uk" tvg-name="VIP Channel 5   1 SD" tvg-logo="http://picon.helixhosting.ninja/31018.png" group-title="UK VIP SD",VIP Channel 5   1 SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/303958.ts
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK ITV 2 SD" tvg-logo="http://picon.helixhosting.ninja/1715.png" group-title="UK ENTERTAINMENT",UK ITV 2 SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/142765.ts
-#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK BBC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/300px-BBC_Four.svg.png" group-title="UK ENTERTAINMENT",UK BBC 4
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/302111.ts
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK ITV 3 SD" tvg-logo="http://picon.helixhosting.ninja/1719.png" group-title="UK ENTERTAINMENT",UK ITV 3 SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/142782.ts
-#EXTINF:-1 tvg-id="picktv.uk" tvg-name="VIP Pick SD" tvg-logo="http://picon.helixhosting.ninja/31079.png" group-title="UK VIP SD",VIP Pick SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/304019.ts
-#EXTINF:-1 tvg-id="dave.uk" tvg-name="VIP Dave SD" tvg-logo="http://picon.helixhosting.ninja/31141.png" group-title="UK VIP SD",VIP Dave SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/304081.ts
-#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK Film 4 HD" tvg-logo="http://picon.helixhosting.ninja/2163.png" group-title="UK MOVIE NETWORKS",UK Film 4 HD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/221840.ts
-#EXTINF:-1 tvg-id="really.uk" tvg-name="VIP Really SD" tvg-logo="http://picon.helixhosting.ninja/31073.png" group-title="UK VIP SD",VIP Really SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/304013.ts
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK ITV 4" tvg-logo="http://picon.helixhosting.ninja/1721.png" group-title="UK ENTERTAINMENT",UK ITV 4
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/142784.ts
-#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK More4" tvg-logo="http://picon.helixhosting.ninja/72.png" group-title="UK ENTERTAINMENT",UK More4
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/67149.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 5  +1" tvg-logo="" group-title="UK +1",UK: Channel 5  +1
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321345.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: E4  +1" tvg-logo="" group-title="UK +1",UK: E4  +1
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321341.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Film 4  +1" tvg-logo="" group-title="UK +1",UK: Film 4  +1
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321353.ts
-#EXTINF:-1 tvg-id="davejavu.uk" tvg-name="VIP Dave ja vu SD" tvg-logo="http://picon.helixhosting.ninja/31140.png" group-title="UK VIP SD",VIP Dave ja vu SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/304080.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1  +1 SD" tvg-logo="" group-title="UK +1",UK: ITV 1  +1 SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321357.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3  +1" tvg-logo="" group-title="UK +1",UK: ITV 3  +1
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321348.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4  +1" tvg-logo="" group-title="UK +1",UK: ITV 4  +1
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321347.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: More 4  +1" tvg-logo="" group-title="UK +1",UK: More 4  +1
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321340.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 4  +1" tvg-logo="" group-title="UK +1",UK: Channel 4  +1
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/321346.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="VIP Cartoon Network  1 SD" tvg-logo="http://picon.helixhosting.ninja/31021.png" group-title="UK VIP SD",VIP Cartoon Network  1 SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/303961.ts
-#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK Yesterday" tvg-logo="http://picon.helixhosting.ninja/16.png" group-title="UK ENTERTAINMENT",UK Yesterday
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/21054.ts
-#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="UK Sky Cinema Disney" tvg-logo="http://picon.helixhosting.ninja/1784.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Disney
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/143537.ts
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK Sky Cinema Family HD" tvg-logo="http://picon.helixhosting.ninja/1970.png" group-title="UK MOVIE NETWORKS",UK Sky Cinema Family HD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/168767.ts
-#EXTINF:-1 tvg-id="scuzz.uk" tvg-name="VIP Scuzz SD" tvg-logo="http://picon.helixhosting.ninja/31067.png" group-title="UK VIP SD",VIP Scuzz SD
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/304007.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Nova TV BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Nova TV BG
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/90877.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",CNN TURK HD TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/168189.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Nat Geo Wild BG
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/90881.ts
-#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",bTV BG
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/90888.ts
-#EXTINF:-1 tvg-id="" tvg-name="bTV Action FHD BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",bTV Action FHD BG
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/90889.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Tv FHD BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Fox Tv FHD BG
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/90890.ts
-#EXTINF:-1 tvg-id="" tvg-name="BNT BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",BNT BG
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/90891.ts
-#EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/383px-Flag_of_Bulgaria.svg.png" group-title="BULGARIA",Diema BG
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/90897.ts
-
-#EXTINF:-1 tvg-id="NatGeoPeople.tr" tvg-name="Nat Geo People TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",Nat Geo People TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93164.ts
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",Kanal D TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93180.ts
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",Kanal 7 TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93251.ts
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD ( 1080P ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TRT 1 HD ( 1080P ) TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/168156.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV NET TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TV NET TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93302.ts
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TV8 TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93305.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV 2 HD ( 1080P ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TV 2 HD ( 1080P ) TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/168152.ts
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TRT Belgesel TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93173.ts
-#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 HD ( 1080P )TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",TEVE 2 HD ( 1080P )TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/168157.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",STAR ( FHDP ) TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93197.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX ( FHDP ) TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",FOX ( FHDP ) TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93207.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/330px-Flag_of_Turkey.svg.png" group-title="TURKISH",BBC Earth TR
-http://tiks.ws:83/live/1639228807x/NETt2yq83J/93216.ts
+#EXTINF:-1,###### Www.DailyM3uIPTV.coM ######
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/213539.m3u8
+#EXTINF:-1,UK: BBC News HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65183.m3u8
+#EXTINF:-1,UK: BE3 Ireland
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/199162.m3u8
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/206466.m3u8
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92581.m3u8
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/206465.m3u8
+#EXTINF:-1,UK: CBBC HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74569.m3u8
+#EXTINF:-1,UK: Challenge HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74722.m3u8
+#EXTINF:-1,UK: Discovery SCIENCE HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/63598.m3u8
+#EXTINF:-1,UK: Discovery TURBO HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137265.m3u8
+#EXTINF:-1,UK: DISNEY JUNIOR HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65133.m3u8
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/108416.m3u8
+#EXTINF:-1,UK: Pick TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/91965.m3u8
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74500.m3u8
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74772.m3u8
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92608.m3u8
+#EXTINF:-1,UK: Sky Sports Football HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74491.m3u8
+#EXTINF:-1,UK: Sky Witness HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139625.m3u8
+#EXTINF:-1,###### UK ######
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/213538.m3u8
+#EXTINF:-1,UK: 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65175.m3u8
+#EXTINF:-1,UK: 4 MUSIC HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74604.m3u8
+#EXTINF:-1,UK: 92 NEWS
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/133394.m3u8
+#EXTINF:-1,UK: ABC News HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/96992.m3u8
+#EXTINF:-1,UK: ABN TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/133396.m3u8
+#EXTINF:-1,UK: Alibi HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137150.m3u8
+#EXTINF:-1,UK: ALJAZEERA HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/131284.m3u8
+#EXTINF:-1,UK: AMC HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/63034.m3u8
+#EXTINF:-1,UK: ANIMAL PLANET HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65023.m3u8
+#EXTINF:-1,UK: Baby TV HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65125.m3u8
+#EXTINF:-1,UK: BBC 1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/86279.m3u8
+#EXTINF:-1,UK: BBC 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74074.m3u8
+#EXTINF:-1,UK: BBC 3 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65184.m3u8
+#EXTINF:-1,UK: BBC 4 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65182.m3u8
+#EXTINF:-1,UK: BBC Alba HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74735.m3u8
+#EXTINF:-1,UK: BBC Earth
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/143751.m3u8
+#EXTINF:-1,UK: BBC Entertainment HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/86281.m3u8
+#EXTINF:-1,UK: BBC Parliament
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137160.m3u8
+#EXTINF:-1,UK: BBC TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209079.m3u8
+#EXTINF:-1,UK: BET HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74589.m3u8
+#EXTINF:-1,UK: Blaze HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75740.m3u8
+#EXTINF:-1,UK: Bloomberg HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74743.m3u8
+#EXTINF:-1,UK: BOOMERANG HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65126.m3u8
+#EXTINF:-1,UK: BOX HITS HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65056.m3u8
+#EXTINF:-1,UK: BOX NATION FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74518.m3u8
+#EXTINF:-1,UK: BOX OFFICE 1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74550.m3u8
+#EXTINF:-1,UK: BOX OFFICE 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74551.m3u8
+#EXTINF:-1,UK: BOX OFFICE 3 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74697.m3u8
+#EXTINF:-1,UK: BOX OFFICE 4 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74552.m3u8
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159104.m3u8
+#EXTINF:-1,UK: BOX OFFICE 6 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159105.m3u8
+#EXTINF:-1,UK: BOX OFFICE 7 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159106.m3u8
+#EXTINF:-1,UK: BOX OFFICE 8 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159107.m3u8
+#EXTINF:-1,UK: BOX OFFICE 9 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159108.m3u8
+#EXTINF:-1,UK: Box Office PPV LIVE DURING AVENTS 2
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/133300.m3u8
+#EXTINF:-1,UK: Bravo HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75739.m3u8
+#EXTINF:-1,UK: British Muslim
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139564.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92580.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/206334.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/93484.m3u8
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/107282.m3u8
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/197895.m3u8
+#EXTINF:-1,UK: BT Sport Extra 1
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/145466.m3u8
+#EXTINF:-1,UK: BT Sport Extra 2
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/175406.m3u8
+#EXTINF:-1,UK: BT Sport Extra 3
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/99947.m3u8
+#EXTINF:-1,UK: BT Sport Extra 4
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/96511.m3u8
+#EXTINF:-1,UK: C ITV HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74590.m3u8
+#EXTINF:-1,UK: CARTOON NETWORK FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74786.m3u8
+#EXTINF:-1,UK: Cartoonito HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74593.m3u8
+#EXTINF:-1,UK: CBeebies HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/94696.m3u8
+#EXTINF:-1,UK: CBS Drama
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/155440.m3u8
+#EXTINF:-1,UK: CBS justice
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/155441.m3u8
+#EXTINF:-1,UK: CBS Reality
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/150861.m3u8
+#EXTINF:-1,UK: CGTN News
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137270.m3u8
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74789.m3u8
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74790.m3u8
+#EXTINF:-1,UK: Channel 5 Star
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/134144.m3u8
+#EXTINF:-1,UK: Channel AKAL
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/154650.m3u8
+#EXTINF:-1,UK: CHELSEA TV HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65020.m3u8
+#EXTINF:-1,UK: Club MTV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139650.m3u8
+#EXTINF:-1,UK: Clubland TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139572.m3u8
+#EXTINF:-1,UK: CNBC
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/104258.m3u8
+#EXTINF:-1,UK: CNN News
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159466.m3u8
+#EXTINF:-1,UK: COMEDY CENTRAL HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65160.m3u8
+#EXTINF:-1,UK: Crime & Investigation FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74596.m3u8
+#EXTINF:-1,UK: DAVE FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92585.m3u8
+#EXTINF:-1,UK: Discovery Channel HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/102159.m3u8
+#EXTINF:-1,UK: Discovery H&H
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159471.m3u8
+#EXTINF:-1,UK: Discovery History
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92587.m3u8
+#EXTINF:-1,UK: Discovery Shed HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74794.m3u8
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74594.m3u8
+#EXTINF:-1,UK: DISNEY XD HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65134.m3u8
+#EXTINF:-1,UK: DMAX HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74573.m3u8
+#EXTINF:-1,UK: Drama
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74796.m3u8
+#EXTINF:-1,UK: E! HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65174.m3u8
+#EXTINF:-1,UK: E4 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74576.m3u8
+#EXTINF:-1,UK: Eden
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/153935.m3u8
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209484.m3u8
+#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/124390.m3u8
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137212.m3u8
+#EXTINF:-1,UK: ESPN
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/99082.m3u8
+#EXTINF:-1,UK: EURONEWS HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74609.m3u8
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65014.m3u8
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/93240.m3u8
+#EXTINF:-1,UK: Fightbox HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/99955.m3u8
+#EXTINF:-1,UK: Film 4 +1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75673.m3u8
+#EXTINF:-1,UK: Fine Living Network
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/86312.m3u8
+#EXTINF:-1,UK: Food Network
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75720.m3u8
+#EXTINF:-1,UK: Forces TV HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65584.m3u8
+#EXTINF:-1,UK: FOX FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137173.m3u8
+#EXTINF:-1,UK: Fox News HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74608.m3u8
+#EXTINF:-1,UK: FRANCE 24
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209491.m3u8
+#EXTINF:-1,UK: Free Sports TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/108660.m3u8
+#EXTINF:-1,UK: Global HITS HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65054.m3u8
+#EXTINF:-1,UK: GOLD HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/63548.m3u8
+#EXTINF:-1,UK: GOOD FOOD HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65040.m3u8
+#EXTINF:-1,UK: H2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74597.m3u8
+#EXTINF:-1,UK: HBO 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/212642.m3u8
+#EXTINF:-1,UK: HBO Comedy HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65139.m3u8
+#EXTINF:-1,UK: HBO HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/91383.m3u8
+#EXTINF:-1,UK: Hillsong
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139665.m3u8
+#EXTINF:-1,UK: HISTORY CHANNEL HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74802.m3u8
+#EXTINF:-1,UK: Home
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75717.m3u8
+#EXTINF:-1,UK: HORROR CHANNEL
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/153919.m3u8
+#EXTINF:-1,UK: Horse Country
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/208308.m3u8
+#EXTINF:-1,UK: HUM Europe
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209487.m3u8
+#EXTINF:-1,UK: HUM Masala
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209486.m3u8
+#EXTINF:-1,UK: Ideal Extra
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139667.m3u8
+#EXTINF:-1,UK: Ideal World
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139668.m3u8
+#EXTINF:-1,UK: Investigation Discovery FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65102.m3u8
+#EXTINF:-1,UK: IR TG4
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209482.m3u8
+#EXTINF:-1,UK: ISLAM CHANNEL
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/105062.m3u8
+#EXTINF:-1,UK: ITV 1 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92590.m3u8
+#EXTINF:-1,UK: ITV 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92591.m3u8
+#EXTINF:-1,UK: ITV 3 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92592.m3u8
+#EXTINF:-1,UK: ITV 4 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92593.m3u8
+#EXTINF:-1,UK: Kerrang
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65051.m3u8
+#EXTINF:-1,UK: KISS
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65058.m3u8
+#EXTINF:-1,UK: LFC TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209476.m3u8
+#EXTINF:-1,UK: Lifetime HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65161.m3u8
+#EXTINF:-1,UK: Little be HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65036.m3u8
+#EXTINF:-1,UK: Liverpool FC HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/64983.m3u8
+#EXTINF:-1,UK: Living
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/98217.m3u8
+#EXTINF:-1,UK: London Live
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139594.m3u8
+#EXTINF:-1,UK: Madani Channel
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139595.m3u8
+#EXTINF:-1,UK: Magic TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65050.m3u8
+#EXTINF:-1,UK: Manchester United TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/214213.m3u8
+#EXTINF:-1,UK: More 4 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/150870.m3u8
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65124.m3u8
+#EXTINF:-1,UK: MOVIES 24
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139597.m3u8
+#EXTINF:-1,UK: MTV Base HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65090.m3u8
+#EXTINF:-1,UK: MTV Classic HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137278.m3u8
+#EXTINF:-1,UK: MTV HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/99105.m3u8
+#EXTINF:-1,UK: MTV Music HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65095.m3u8
+#EXTINF:-1,UK: MTV OMG HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/147221.m3u8
+#EXTINF:-1,UK: MTV ONE
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159496.m3u8
+#EXTINF:-1,UK: MTV Rocks HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65099.m3u8
+#EXTINF:-1,UK: MUTV HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/64982.m3u8
+#EXTINF:-1,UK: My TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139681.m3u8
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74807.m3u8
+#EXTINF:-1,UK: Nick Junior
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65128.m3u8
+#EXTINF:-1,UK: Nick Junior TOO
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74592.m3u8
+#EXTINF:-1,UK: Nick Toons HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65129.m3u8
+#EXTINF:-1,UK: PBS America
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75613.m3u8
+#EXTINF:-1,UK: Pop Max
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74706.m3u8
+#EXTINF:-1,UK: POP TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75569.m3u8
+#EXTINF:-1,UK: QVC Beauty HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74950.m3u8
+#EXTINF:-1,UK: QVC Style
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/86329.m3u8
+#EXTINF:-1,UK: Racing HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209466.m3u8
+#EXTINF:-1,UK: RACING UK HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65019.m3u8
+#EXTINF:-1,UK: REAL LIVES
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74582.m3u8
+#EXTINF:-1,UK: Really
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65037.m3u8
+#EXTINF:-1,UK: Revelation
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139690.m3u8
+#EXTINF:-1,UK: RISHTEY EUROPE
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209465.m3u8
+#EXTINF:-1,UK: ROK TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/102185.m3u8
+#EXTINF:-1,UK: RT News
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/213338.m3u8
+#EXTINF:-1,UK: RTE 1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65177.m3u8
+#EXTINF:-1,UK: RTE 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65178.m3u8
+#EXTINF:-1,UK: RTE Junior
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65176.m3u8
+#EXTINF:-1,UK: RTE NEWS
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65179.m3u8
+#EXTINF:-1,UK: SAB TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/102186.m3u8
+#EXTINF:-1,UK: Setanta +Sports
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74761.m3u8
+#EXTINF:-1,UK: Sky 1 FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74564.m3u8
+#EXTINF:-1,UK: Sky 2 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/99603.m3u8
+#EXTINF:-1,UK: SKY ARTS 1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65113.m3u8
+#EXTINF:-1,UK: Sky Arts HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/134176.m3u8
+#EXTINF:-1,UK: Sky Atlantic HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/175822.m3u8
+#EXTINF:-1,UK: Sky Box Office
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/206500.m3u8
+#EXTINF:-1,UK: SKY CIENMA ACTION HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209453.m3u8
+#EXTINF:-1,UK: SKY CIENMA COMEDY HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209452.m3u8
+#EXTINF:-1,UK: SKY CIENMA Family HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209450.m3u8
+#EXTINF:-1,UK: SKY CIENMA Greats HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209449.m3u8
+#EXTINF:-1,UK: SKY CIENMA HITS HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209448.m3u8
+#EXTINF:-1,UK: SKY CIENMA PREMIER HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209447.m3u8
+#EXTINF:-1,UK: SKY CIENMA SELECT HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209446.m3u8
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/213801.m3u8
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65144.m3u8
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/98206.m3u8
+#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65146.m3u8
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/213796.m3u8
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/213979.m3u8
+#EXTINF:-1,UK: Sky Cinema Premier FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74535.m3u8
+#EXTINF:-1,UK: Sky Cinema Sci-Fi&Horror FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74545.m3u8
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65140.m3u8
+#EXTINF:-1,UK: Sky Cinema Showcase HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65151.m3u8
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/198397.m3u8
+#EXTINF:-1,UK: SKY LIVING FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/126445.m3u8
+#EXTINF:-1,UK: Sky News HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65042.m3u8
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/198820.m3u8
+#EXTINF:-1,UK: Sky Sports ACTION HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/92609.m3u8
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74495.m3u8
+#EXTINF:-1,UK: Sky Sports Box Office
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/133301.m3u8
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74770.m3u8
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/98196.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74481.m3u8
+#EXTINF:-1,UK: Sky Sports RACING
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/208091.m3u8
+#EXTINF:-1,UK: SKY THRILLER HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/212959.m3u8
+#EXTINF:-1,UK: Sky Two
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137146.m3u8
+#EXTINF:-1,UK: SkyCinema Premiere HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/213817.m3u8
+#EXTINF:-1,UK: SONY Max
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209462.m3u8
+#EXTINF:-1,UK: Sony Movies
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65106.m3u8
+#EXTINF:-1,UK: Sony TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/208276.m3u8
+#EXTINF:-1,UK: SPIKE
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74588.m3u8
+#EXTINF:-1,UK: STAR BHARAT
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/91458.m3u8
+#EXTINF:-1,UK: STAR GOLD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/159520.m3u8
+#EXTINF:-1,UK: STAR PLUS
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/209461.m3u8
+#EXTINF:-1,UK: STV FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/98263.m3u8
+#EXTINF:-1,UK: SyFy FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65165.m3u8
+#EXTINF:-1,UK: TBN UK
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/75692.m3u8
+#EXTINF:-1,UK: TCM FHD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65162.m3u8
+#EXTINF:-1,UK: The Box
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65057.m3u8
+#EXTINF:-1,UK: The Vault
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65052.m3u8
+#EXTINF:-1,UK: Tiny POP
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74591.m3u8
+#EXTINF:-1,UK: TLC HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137193.m3u8
+#EXTINF:-1,UK: Travel Channel
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65045.m3u8
+#EXTINF:-1,UK: TV5 Monde
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/139701.m3u8
+#EXTINF:-1,UK: Universal Channel HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/74574.m3u8
+#EXTINF:-1,UK: UTV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/208271.m3u8
+#EXTINF:-1,UK: VENUS TV
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/137249.m3u8
+#EXTINF:-1,UK: VH 1 CLASSIC
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/163362.m3u8
+#EXTINF:-1,UK: VH1 HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65097.m3u8
+#EXTINF:-1,UK: Viceland HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/104929.m3u8
+#EXTINF:-1,UK: Watch HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/65168.m3u8
+#EXTINF:-1,UK: WWE Raw Network HD
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/93245.m3u8
+#EXTINF:-1,UK: ZEE CINEMA
+http://dibo.live:8080/live/LNcRw6GVVl/SLgNSmTHwq/208268.m3u8
